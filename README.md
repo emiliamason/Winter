@@ -1,4 +1,4 @@
-# Winter
+# PressInCaseOfWinter
 Assignment 3 - Press in Case of Winter
 Project by Emilia Mason
 Date: November 10th,2017
